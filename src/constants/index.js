@@ -194,43 +194,43 @@ const expLogos = [
 
 const testimonials = [
   {
-    name: "Esther Howard",
-    mentions: "@estherhoward",
+    name: "xyz",
+    mentions: "@xyz",
     review:
       "VedaXBot exceeded expectations by transforming our vision into a seamless digital platform. Their ability to understand complex workflows and implement them into intuitive systems was exactly what our organization needed. Highly recommended.",
     imgPath: "/images/client1.png", // 35 words
   },
   {
-    name: "Wade Warren",
-    mentions: "@wadewarren",
+    name: "xyz",
+    mentions: "@xyz",
     review:
       "Our experience with VedaXBot was outstanding. They modernized our digital ecosystem, delivering a platform that’s user-friendly and robust. Their focus on precision, collaboration, and long-term maintainability makes them an ideal tech partner. Fantastic job.",
     imgPath: "/images/client3.png", // 44 words
   },
   {
-    name: "Guy Hawkins",
-    mentions: "@guyhawkins",
+    name: "xyz",
+    mentions: "@xyz",
     review:
       "From start to finish, VedaXBot showed unmatched professionalism. The team took our concept and elevated it into a high-performing solution. Communication was smooth, delivery was on time, and every feature was crafted with care. Incredible service. Definitely recommend.",
     imgPath: "/images/client2.png", // 52 words
   },
   {
-    name: "Marvin McKinney",
-    mentions: "@marvinmckinney",
+    name: "xyz",
+    mentions: "@xyz",
     review:
       "VedaXBot helped revamp our online system with a sleek interface and optimized backend. It’s intuitive, modern, and fast. They delivered exactly what we asked for with efficiency and clarity. Great results overall.",
     imgPath: "/images/client5.png", // 27 words
   },
   {
-    name: "Floyd Miles",
-    mentions: "@floydmiles",
+    name: "xyz",
+    mentions: "@xyz",
     review:
       "The VedaXBot team delivered a smart and scalable solution for our platform. Their deep expertise in AI and automation directly impacted our growth and customer satisfaction. We couldn’t be more impressed. Exceptional work!",
     imgPath: "/images/client4.png", // 36 words
   },
   {
-    name: "Albert Flores",
-    mentions: "@albertflores",
+    name: "xyz",
+    mentions: "@xyz",
     review:
       "Choosing VedaXBot was the best decision we made. Their ability to bridge frontend creativity with backend power is remarkable. We received a polished product with strong performance and smooth UX. Outstanding execution!",
     imgPath: "/images/client6.png", // 31 words
